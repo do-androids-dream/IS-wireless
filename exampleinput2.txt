@@ -1,0 +1,1000 @@
+16:12:09.459712 useless line
+16:12:09.559712 useless line
+16:12:09.659712 useless line
+16:12:09.759712 useless line
+16:12:09.859712 green 653
+16:12:09.959712 magenta  magenta
+16:12:10.059712 useless line
+16:12:10.159712 useless line
+16:12:10.259712 useless line
+16:12:10.359712 red
+16:12:10.459712 magenta 643
+16:12:10.559712 green 810
+16:12:10.659712 blue
+16:12:10.759712 useless line
+16:12:10.859712 useless line
+16:12:10.959712 green
+16:12:11.059712 useless line
+16:12:11.159712 useless line
+16:12:11.259712 blue 259
+16:12:11.359712 useless line
+16:12:11.459712 useless line
+16:12:11.559712 magenta 336
+16:12:11.659712 useless line
+16:12:11.759712 useless line
+16:12:11.859712 useless line
+16:12:11.959712 useless line
+16:12:12.059712 useless line
+16:12:12.159712 useless line
+16:12:12.259712 useless line
+16:12:12.359712 useless line
+16:12:12.459712 blue  blue
+16:12:12.559712 useless line
+16:12:12.659712 useless line
+16:12:12.759712 green 86
+16:12:12.859712 green  green
+16:12:12.959712 useless line
+16:12:13.059712 green 542
+16:12:13.159712 useless line
+16:12:13.259712 useless line
+16:12:13.359712 useless line
+16:12:13.459712 useless line
+16:12:13.559712 red
+16:12:13.659712 useless line
+16:12:13.759712 useless line
+16:12:13.859712 useless line
+16:12:13.959712 blue 266
+16:12:14.059712 red
+16:12:14.159712 useless line
+16:12:14.259712 useless line
+16:12:14.359712 useless line
+16:12:14.459712 useless line
+16:12:14.559712 useless line
+16:12:14.659712 magenta 746
+16:12:14.759712 useless line
+16:12:14.859712 red
+16:12:14.959712 blue 922
+16:12:15.059712 useless line
+16:12:15.159712 useless line
+16:12:15.259712 useless line
+16:12:15.359712 useless line
+16:12:15.459712 useless line
+16:12:15.559712 useless line
+16:12:15.659712 magenta
+16:12:15.759712 red
+16:12:15.859712 useless line
+16:12:15.959712 useless line
+16:12:16.059712 useless line
+16:12:16.159712 magenta 892
+16:12:16.259712 useless line
+16:12:16.359712 useless line
+16:12:16.459712 useless line
+16:12:16.559712 useless line
+16:12:16.659712 useless line
+16:12:16.759712 useless line
+16:12:16.859712 red  red
+16:12:16.959712 useless line
+16:12:17.059712 useless line
+16:12:17.159712 useless line
+16:12:17.259712 magenta
+16:12:17.359712 useless line
+16:12:17.459712 useless line
+16:12:17.559712 magenta
+16:12:17.659712 useless line
+16:12:17.759712 useless line
+16:12:17.859712 useless line
+16:12:17.959712 useless line
+16:12:18.059712 magenta
+16:12:18.159712 useless line
+16:12:18.259712 useless line
+16:12:18.359712 magenta 173
+16:12:18.459712 green 206
+16:12:18.559712 useless line
+16:12:18.659712 useless line
+16:12:18.759712 useless line
+16:12:18.859712 useless line
+16:12:18.959712 useless line
+16:12:19.059712 useless line
+16:12:19.159712 blue
+16:12:19.259712 blue
+16:12:19.359712 red  red
+16:12:19.459712 useless line
+16:12:19.559712 useless line
+16:12:19.659712 useless line
+16:12:19.759712 blue  blue
+16:12:19.859712 useless line
+16:12:19.959712 magenta  magenta
+16:12:20.059712 useless line
+16:12:20.159712 green  green
+16:12:20.259712 useless line
+16:12:20.359712 red 123
+16:12:20.459712 red
+16:12:20.559712 useless line
+16:12:20.659712 useless line
+16:12:20.759712 useless line
+16:12:20.859712 green 477
+16:12:20.959712 useless line
+16:12:21.059712 useless line
+16:12:21.159712 blue
+16:12:21.259712 useless line
+16:12:21.359712 magenta 744
+16:12:21.459712 useless line
+16:12:21.559712 green
+16:12:21.659712 useless line
+16:12:21.759712 useless line
+16:12:21.859712 useless line
+16:12:21.959712 green 227
+16:12:22.059712 useless line
+16:12:22.159712 blue 955
+16:12:22.259712 useless line
+16:12:22.359712 blue
+16:12:22.459712 useless line
+16:12:22.559712 blue  blue
+16:12:22.659712 useless line
+16:12:22.759712 useless line
+16:12:22.859712 useless line
+16:12:22.959712 useless line
+16:12:23.059712 useless line
+16:12:23.159712 useless line
+16:12:23.259712 useless line
+16:12:23.359712 green
+16:12:23.459712 useless line
+16:12:23.559712 red 786
+16:12:23.659712 useless line
+16:12:23.759712 magenta 45
+16:12:23.859712 green 999
+16:12:23.959712 useless line
+16:12:24.059712 useless line
+16:12:24.159712 magenta
+16:12:24.259712 useless line
+16:12:24.359712 magenta
+16:12:24.459712 useless line
+16:12:24.559712 magenta
+16:12:24.659712 useless line
+16:12:24.759712 useless line
+16:12:24.859712 useless line
+16:12:24.959712 useless line
+16:12:25.059712 red 605
+16:12:25.159712 useless line
+16:12:25.259712 useless line
+16:12:25.359712 red 139
+16:12:25.459712 useless line
+16:12:25.559712 red
+16:12:25.659712 blue 964
+16:12:25.759712 useless line
+16:12:25.859712 useless line
+16:12:25.959712 green  green
+16:12:26.059712 useless line
+16:12:26.159712 red
+16:12:26.259712 red 173
+16:12:26.359712 useless line
+16:12:26.459712 blue  blue
+16:12:26.559712 useless line
+16:12:26.659712 useless line
+16:12:26.759712 useless line
+16:12:26.859712 useless line
+16:12:26.959712 useless line
+16:12:27.059712 useless line
+16:12:27.159712 useless line
+16:12:27.259712 useless line
+16:12:27.359712 useless line
+16:12:27.459712 magenta
+16:12:27.559712 useless line
+16:12:27.659712 useless line
+16:12:27.759712 useless line
+16:12:27.859712 magenta 520
+16:12:27.959712 useless line
+16:12:28.059712 useless line
+16:12:28.159712 useless line
+16:12:28.259712 blue
+16:12:28.359712 useless line
+16:12:28.459712 blue 997
+16:12:28.559712 useless line
+16:12:28.659712 useless line
+16:12:28.759712 magenta  magenta
+16:12:28.859712 blue 551
+16:12:28.959712 useless line
+16:12:29.059712 useless line
+16:12:29.159712 useless line
+16:12:29.259712 useless line
+16:12:29.359712 green 49
+16:12:29.459712 useless line
+16:12:29.559712 useless line
+16:12:29.659712 blue  blue
+16:12:29.759712 useless line
+16:12:29.859712 red  red
+16:12:29.959712 useless line
+16:12:30.059712 magenta 105
+16:12:30.159712 green  green
+16:12:30.259712 useless line
+16:12:30.359712 useless line
+16:12:30.459712 useless line
+16:12:30.559712 useless line
+16:12:30.659712 useless line
+16:12:30.759712 useless line
+16:12:30.859712 useless line
+16:12:30.959712 useless line
+16:12:31.059712 useless line
+16:12:31.159712 useless line
+16:12:31.259712 useless line
+16:12:31.359712 useless line
+16:12:31.459712 magenta  magenta
+16:12:31.559712 useless line
+16:12:31.659712 useless line
+16:12:31.759712 useless line
+16:12:31.859712 useless line
+16:12:31.959712 red  red
+16:12:32.059712 useless line
+16:12:32.159712 useless line
+16:12:32.259712 useless line
+16:12:32.359712 useless line
+16:12:32.459712 useless line
+16:12:32.559712 useless line
+16:12:32.659712 useless line
+16:12:32.759712 useless line
+16:12:32.859712 useless line
+16:12:32.959712 green 845
+16:12:33.059712 useless line
+16:12:33.159712 useless line
+16:12:33.259712 useless line
+16:12:33.359712 green  green
+16:12:33.459712 useless line
+16:12:33.559712 useless line
+16:12:33.659712 useless line
+16:12:33.759712 useless line
+16:12:33.859712 blue  blue
+16:12:33.959712 useless line
+16:12:34.059712 useless line
+16:12:34.159712 useless line
+16:12:34.259712 blue 179
+16:12:34.359712 red  red
+16:12:34.459712 useless line
+16:12:34.559712 useless line
+16:12:34.659712 useless line
+16:12:34.759712 useless line
+16:12:34.859712 useless line
+16:12:34.959712 useless line
+16:12:35.059712 useless line
+16:12:35.159712 useless line
+16:12:35.259712 useless line
+16:12:35.359712 magenta
+16:12:35.459712 useless line
+16:12:35.559712 useless line
+16:12:35.659712 useless line
+16:12:35.759712 useless line
+16:12:35.859712 useless line
+16:12:35.959712 useless line
+16:12:36.059712 useless line
+16:12:36.159712 red 600
+16:12:36.259712 useless line
+16:12:36.359712 useless line
+16:12:36.459712 useless line
+16:12:36.559712 useless line
+16:12:36.659712 magenta  magenta
+16:12:36.759712 green
+16:12:36.859712 useless line
+16:12:36.959712 useless line
+16:12:37.059712 green
+16:12:37.159712 useless line
+16:12:37.259712 useless line
+16:12:37.359712 green
+16:12:37.459712 green  green
+16:12:37.559712 blue  blue
+16:12:37.659712 useless line
+16:12:37.759712 useless line
+16:12:37.859712 useless line
+16:12:37.959712 useless line
+16:12:38.059712 useless line
+16:12:38.159712 useless line
+16:12:38.259712 useless line
+16:12:38.359712 useless line
+16:12:38.459712 red 215
+16:12:38.559712 useless line
+16:12:38.659712 useless line
+16:12:38.759712 useless line
+16:12:38.859712 blue 86
+16:12:38.959712 blue  blue
+16:12:39.059712 useless line
+16:12:39.159712 useless line
+16:12:39.259712 useless line
+16:12:39.359712 useless line
+16:12:39.459712 blue  blue
+16:12:39.559712 useless line
+16:12:39.659712 green
+16:12:39.759712 magenta 698
+16:12:39.859712 useless line
+16:12:39.959712 useless line
+16:12:40.059712 useless line
+16:12:40.159712 useless line
+16:12:40.259712 red  red
+16:12:40.359712 useless line
+16:12:40.459712 useless line
+16:12:40.559712 green 325
+16:12:40.659712 blue  blue
+16:12:40.759712 useless line
+16:12:40.859712 useless line
+16:12:40.959712 useless line
+16:12:41.059712 magenta  magenta
+16:12:41.159712 useless line
+16:12:41.259712 useless line
+16:12:41.359712 useless line
+16:12:41.459712 magenta  magenta
+16:12:41.559712 green  green
+16:12:41.659712 useless line
+16:12:41.759712 useless line
+16:12:41.859712 useless line
+16:12:41.959712 useless line
+16:12:42.059712 useless line
+16:12:42.159712 useless line
+16:12:42.259712 useless line
+16:12:42.359712 magenta  magenta
+16:12:42.459712 red
+16:12:42.559712 useless line
+16:12:42.659712 useless line
+16:12:42.759712 useless line
+16:12:42.859712 useless line
+16:12:42.959712 useless line
+16:12:43.059712 useless line
+16:12:43.159712 useless line
+16:12:43.259712 useless line
+16:12:43.359712 useless line
+16:12:43.459712 useless line
+16:12:43.559712 useless line
+16:12:43.659712 useless line
+16:12:43.759712 useless line
+16:12:43.859712 useless line
+16:12:43.959712 blue
+16:12:44.059712 blue 121
+16:12:44.159712 blue 954
+16:12:44.259712 blue  blue
+16:12:44.359712 green
+16:12:44.459712 red 146
+16:12:44.559712 useless line
+16:12:44.659712 useless line
+16:12:44.759712 useless line
+16:12:44.859712 useless line
+16:12:44.959712 blue
+16:12:45.059712 useless line
+16:12:45.159712 blue 404
+16:12:45.259712 useless line
+16:12:45.359712 useless line
+16:12:45.459712 useless line
+16:12:45.559712 useless line
+16:12:45.659712 useless line
+16:12:45.759712 useless line
+16:12:45.859712 useless line
+16:12:45.959712 useless line
+16:12:46.059712 useless line
+16:12:46.159712 magenta 132
+16:12:46.259712 useless line
+16:12:46.359712 useless line
+16:12:46.459712 useless line
+16:12:46.559712 useless line
+16:12:46.659712 useless line
+16:12:46.759712 green
+16:12:46.859712 useless line
+16:12:46.959712 useless line
+16:12:47.059712 magenta 674
+16:12:47.159712 useless line
+16:12:47.259712 useless line
+16:12:47.359712 useless line
+16:12:47.459712 useless line
+16:12:47.559712 useless line
+16:12:47.659712 useless line
+16:12:47.759712 useless line
+16:12:47.859712 red 589
+16:12:47.959712 useless line
+16:12:48.059712 useless line
+16:12:48.159712 green  green
+16:12:48.259712 useless line
+16:12:48.359712 useless line
+16:12:48.459712 blue  blue
+16:12:48.559712 useless line
+16:12:48.659712 green  green
+16:12:48.759712 useless line
+16:12:48.859712 red  red
+16:12:48.959712 useless line
+16:12:49.059712 useless line
+16:12:49.159712 useless line
+16:12:49.259712 red  red
+16:12:49.359712 useless line
+16:12:49.459712 useless line
+16:12:49.559712 useless line
+16:12:49.659712 useless line
+16:12:49.759712 useless line
+16:12:49.859712 useless line
+16:12:49.959712 useless line
+16:12:50.059712 useless line
+16:12:50.159712 useless line
+16:12:50.259712 useless line
+16:12:50.359712 useless line
+16:12:50.459712 useless line
+16:12:50.559712 useless line
+16:12:50.659712 useless line
+16:12:50.759712 useless line
+16:12:50.859712 useless line
+16:12:50.959712 magenta  magenta
+16:12:51.059712 useless line
+16:12:51.159712 blue  blue
+16:12:51.259712 useless line
+16:12:51.359712 magenta
+16:12:51.459712 useless line
+16:12:51.559712 red 608
+16:12:51.659712 useless line
+16:12:51.759712 useless line
+16:12:51.859712 magenta
+16:12:51.959712 useless line
+16:12:52.059712 useless line
+16:12:52.159712 magenta 793
+16:12:52.259712 useless line
+16:12:52.359712 useless line
+16:12:52.459712 useless line
+16:12:52.559712 useless line
+16:12:52.659712 useless line
+16:12:52.759712 green
+16:12:52.859712 useless line
+16:12:52.959712 useless line
+16:12:53.059712 useless line
+16:12:53.159712 magenta  magenta
+16:12:53.259712 useless line
+16:12:53.359712 blue
+16:12:53.459712 useless line
+16:12:53.559712 blue
+16:12:53.659712 useless line
+16:12:53.759712 blue 142
+16:12:53.859712 useless line
+16:12:53.959712 useless line
+16:12:54.059712 magenta 93
+16:12:54.159712 useless line
+16:12:54.259712 useless line
+16:12:54.359712 useless line
+16:12:54.459712 red  red
+16:12:54.559712 useless line
+16:12:54.659712 magenta
+16:12:54.759712 magenta  magenta
+16:12:54.859712 useless line
+16:12:54.959712 blue 96
+16:12:55.059712 red  red
+16:12:55.159712 useless line
+16:12:55.259712 useless line
+16:12:55.359712 useless line
+16:12:55.459712 green  green
+16:12:55.559712 useless line
+16:12:55.659712 useless line
+16:12:55.759712 useless line
+16:12:55.859712 blue  blue
+16:12:55.959712 magenta
+16:12:56.059712 useless line
+16:12:56.159712 useless line
+16:12:56.259712 useless line
+16:12:56.359712 useless line
+16:12:56.459712 useless line
+16:12:56.559712 useless line
+16:12:56.659712 green
+16:12:56.759712 useless line
+16:12:56.859712 useless line
+16:12:56.959712 useless line
+16:12:57.059712 useless line
+16:12:57.159712 useless line
+16:12:57.259712 useless line
+16:12:57.359712 useless line
+16:12:57.459712 useless line
+16:12:57.559712 red  red
+16:12:57.659712 magenta  magenta
+16:12:57.759712 useless line
+16:12:57.859712 useless line
+16:12:57.959712 useless line
+16:12:58.059712 blue  blue
+16:12:58.159712 useless line
+16:12:58.259712 useless line
+16:12:58.359712 useless line
+16:12:58.459712 useless line
+16:12:58.559712 useless line
+16:12:58.659712 useless line
+16:12:58.759712 useless line
+16:12:58.859712 green  green
+16:12:58.959712 useless line
+16:12:59.059712 useless line
+16:12:59.159712 useless line
+16:12:59.259712 useless line
+16:12:59.359712 red 940
+16:12:59.459712 red  red
+16:12:59.559712 useless line
+16:12:59.659712 useless line
+16:12:59.759712 magenta
+16:12:59.859712 useless line
+16:12:59.959712 blue  blue
+16:13:00.059712 red 354
+16:13:00.159712 useless line
+16:13:00.259712 green  green
+16:13:00.359712 useless line
+16:13:00.459712 blue 818
+16:13:00.559712 useless line
+16:13:00.659712 blue
+16:13:00.759712 green 452
+16:13:00.859712 blue
+16:13:00.959712 useless line
+16:13:01.059712 magenta  magenta
+16:13:01.159712 green
+16:13:01.259712 green  green
+16:13:01.359712 useless line
+16:13:01.459712 useless line
+16:13:01.559712 useless line
+16:13:01.659712 useless line
+16:13:01.759712 useless line
+16:13:01.859712 useless line
+16:13:01.959712 useless line
+16:13:02.059712 useless line
+16:13:02.159712 blue 659
+16:13:02.259712 useless line
+16:13:02.359712 useless line
+16:13:02.459712 useless line
+16:13:02.559712 useless line
+16:13:02.659712 green 782
+16:13:02.759712 useless line
+16:13:02.859712 useless line
+16:13:02.959712 useless line
+16:13:03.059712 useless line
+16:13:03.159712 useless line
+16:13:03.259712 useless line
+16:13:03.359712 magenta
+16:13:03.459712 useless line
+16:13:03.559712 useless line
+16:13:03.659712 useless line
+16:13:03.759712 blue  blue
+16:13:03.859712 magenta  magenta
+16:13:03.959712 blue 376
+16:13:04.059712 useless line
+16:13:04.159712 useless line
+16:13:04.259712 useless line
+16:13:04.359712 useless line
+16:13:04.459712 useless line
+16:13:04.559712 useless line
+16:13:04.659712 useless line
+16:13:04.759712 useless line
+16:13:04.859712 red
+16:13:04.959712 green 955
+16:13:05.059712 magenta  magenta
+16:13:05.159712 red
+16:13:05.259712 useless line
+16:13:05.359712 useless line
+16:13:05.459712 blue  blue
+16:13:05.559712 useless line
+16:13:05.659712 blue 422
+16:13:05.759712 useless line
+16:13:05.859712 green  green
+16:13:05.959712 useless line
+16:13:06.059712 useless line
+16:13:06.159712 magenta  magenta
+16:13:06.259712 useless line
+16:13:06.359712 magenta  magenta
+16:13:06.459712 green 949
+16:13:06.559712 blue
+16:13:06.659712 blue 284
+16:13:06.759712 useless line
+16:13:06.859712 magenta 886
+16:13:06.959712 useless line
+16:13:07.059712 magenta
+16:13:07.159712 useless line
+16:13:07.259712 useless line
+16:13:07.359712 useless line
+16:13:07.459712 green 468
+16:13:07.559712 useless line
+16:13:07.659712 useless line
+16:13:07.759712 red 549
+16:13:07.859712 green  green
+16:13:07.959712 useless line
+16:13:08.059712 useless line
+16:13:08.159712 green
+16:13:08.259712 useless line
+16:13:08.359712 green 795
+16:13:08.459712 blue
+16:13:08.559712 red
+16:13:08.659712 red 205
+16:13:08.759712 useless line
+16:13:08.859712 green 270
+16:13:08.959712 blue
+16:13:09.059712 useless line
+16:13:09.159712 useless line
+16:13:09.259712 red  red
+16:13:09.359712 green
+16:13:09.459712 useless line
+16:13:09.559712 blue
+16:13:09.659712 magenta 547
+16:13:09.759712 useless line
+16:13:09.859712 magenta
+16:13:09.959712 green 434
+16:13:10.059712 useless line
+16:13:10.159712 useless line
+16:13:10.259712 useless line
+16:13:10.359712 blue
+16:13:10.459712 useless line
+16:13:10.559712 useless line
+16:13:10.659712 useless line
+16:13:10.759712 useless line
+16:13:10.859712 useless line
+16:13:10.959712 useless line
+16:13:11.059712 useless line
+16:13:11.159712 useless line
+16:13:11.259712 magenta  magenta
+16:13:11.359712 blue
+16:13:11.459712 useless line
+16:13:11.559712 useless line
+16:13:11.659712 useless line
+16:13:11.759712 useless line
+16:13:11.859712 magenta
+16:13:11.959712 useless line
+16:13:12.059712 useless line
+16:13:12.159712 magenta  magenta
+16:13:12.259712 useless line
+16:13:12.359712 magenta 134
+16:13:12.459712 useless line
+16:13:12.559712 useless line
+16:13:12.659712 useless line
+16:13:12.759712 useless line
+16:13:12.859712 useless line
+16:13:12.959712 useless line
+16:13:13.059712 magenta  magenta
+16:13:13.159712 useless line
+16:13:13.259712 useless line
+16:13:13.359712 magenta 975
+16:13:13.459712 blue  blue
+16:13:13.559712 useless line
+16:13:13.659712 useless line
+16:13:13.759712 useless line
+16:13:13.859712 useless line
+16:13:13.959712 red  red
+16:13:14.059712 useless line
+16:13:14.159712 useless line
+16:13:14.259712 useless line
+16:13:14.359712 red  red
+16:13:14.459712 useless line
+16:13:14.559712 useless line
+16:13:14.659712 green  green
+16:13:14.759712 blue
+16:13:14.859712 magenta  magenta
+16:13:14.959712 useless line
+16:13:15.059712 useless line
+16:13:15.159712 useless line
+16:13:15.259712 useless line
+16:13:15.359712 useless line
+16:13:15.459712 useless line
+16:13:15.559712 useless line
+16:13:15.659712 magenta 26
+16:13:15.759712 red  red
+16:13:15.859712 useless line
+16:13:15.959712 useless line
+16:13:16.059712 blue
+16:13:16.159712 red
+16:13:16.259712 useless line
+16:13:16.359712 useless line
+16:13:16.459712 green 726
+16:13:16.559712 magenta 928
+16:13:16.659712 useless line
+16:13:16.759712 useless line
+16:13:16.859712 useless line
+16:13:16.959712 useless line
+16:13:17.059712 useless line
+16:13:17.159712 useless line
+16:13:17.259712 magenta  magenta
+16:13:17.359712 useless line
+16:13:17.459712 useless line
+16:13:17.559712 useless line
+16:13:17.659712 blue 232
+16:13:17.759712 blue
+16:13:17.859712 green 945
+16:13:17.959712 blue  blue
+16:13:18.059712 useless line
+16:13:18.159712 useless line
+16:13:18.259712 useless line
+16:13:18.359712 useless line
+16:13:18.459712 useless line
+16:13:18.559712 useless line
+16:13:18.659712 green  green
+16:13:18.759712 useless line
+16:13:18.859712 useless line
+16:13:18.959712 magenta 811
+16:13:19.059712 red
+16:13:19.159712 useless line
+16:13:19.259712 blue 343
+16:13:19.359712 magenta  magenta
+16:13:19.459712 useless line
+16:13:19.559712 useless line
+16:13:19.659712 useless line
+16:13:19.759712 useless line
+16:13:19.859712 useless line
+16:13:19.959712 green 810
+16:13:20.059712 useless line
+16:13:20.159712 useless line
+16:13:20.259712 useless line
+16:13:20.359712 green
+16:13:20.459712 useless line
+16:13:20.559712 red 780
+16:13:20.659712 useless line
+16:13:20.759712 useless line
+16:13:20.859712 blue  blue
+16:13:20.959712 useless line
+16:13:21.059712 red  red
+16:13:21.159712 red 270
+16:13:21.259712 red
+16:13:21.359712 useless line
+16:13:21.459712 useless line
+16:13:21.559712 red
+16:13:21.659712 useless line
+16:13:21.759712 useless line
+16:13:21.859712 useless line
+16:13:21.959712 blue  blue
+16:13:22.059712 useless line
+16:13:22.159712 useless line
+16:13:22.259712 red
+16:13:22.359712 useless line
+16:13:22.459712 red 236
+16:13:22.559712 useless line
+16:13:22.659712 useless line
+16:13:22.759712 blue  blue
+16:13:22.859712 magenta  magenta
+16:13:22.959712 blue  blue
+16:13:23.059712 useless line
+16:13:23.159712 useless line
+16:13:23.259712 useless line
+16:13:23.359712 useless line
+16:13:23.459712 useless line
+16:13:23.559712 useless line
+16:13:23.659712 red  red
+16:13:23.759712 blue
+16:13:23.859712 useless line
+16:13:23.959712 useless line
+16:13:24.059712 blue
+16:13:24.159712 useless line
+16:13:24.259712 red
+16:13:24.359712 useless line
+16:13:24.459712 useless line
+16:13:24.559712 magenta
+16:13:24.659712 useless line
+16:13:24.759712 useless line
+16:13:24.859712 red  red
+16:13:24.959712 red
+16:13:25.059712 useless line
+16:13:25.159712 useless line
+16:13:25.259712 blue 875
+16:13:25.359712 useless line
+16:13:25.459712 magenta  magenta
+16:13:25.559712 useless line
+16:13:25.659712 magenta
+16:13:25.759712 useless line
+16:13:25.859712 useless line
+16:13:25.959712 useless line
+16:13:26.059712 green  green
+16:13:26.159712 blue 734
+16:13:26.259712 green 115
+16:13:26.359712 useless line
+16:13:26.459712 blue
+16:13:26.559712 blue
+16:13:26.659712 green  green
+16:13:26.759712 useless line
+16:13:26.859712 useless line
+16:13:26.959712 useless line
+16:13:27.059712 useless line
+16:13:27.159712 green 806
+16:13:27.259712 useless line
+16:13:27.359712 magenta
+16:13:27.459712 magenta  magenta
+16:13:27.559712 red 941
+16:13:27.659712 useless line
+16:13:27.759712 useless line
+16:13:27.859712 green 563
+16:13:27.959712 blue 390
+16:13:28.059712 useless line
+16:13:28.159712 useless line
+16:13:28.259712 useless line
+16:13:28.359712 blue  blue
+16:13:28.459712 useless line
+16:13:28.559712 magenta  magenta
+16:13:28.659712 useless line
+16:13:28.759712 useless line
+16:13:28.859712 blue 837
+16:13:28.959712 blue
+16:13:29.059712 red 154
+16:13:29.159712 useless line
+16:13:29.259712 useless line
+16:13:29.359712 useless line
+16:13:29.459712 useless line
+16:13:29.559712 useless line
+16:13:29.659712 useless line
+16:13:29.759712 useless line
+16:13:29.859712 red 230
+16:13:29.959712 useless line
+16:13:30.059712 useless line
+16:13:30.159712 green
+16:13:30.259712 useless line
+16:13:30.359712 useless line
+16:13:30.459712 useless line
+16:13:30.559712 useless line
+16:13:30.659712 useless line
+16:13:30.759712 blue 444
+16:13:30.859712 useless line
+16:13:30.959712 useless line
+16:13:31.059712 useless line
+16:13:31.159712 useless line
+16:13:31.259712 useless line
+16:13:31.359712 useless line
+16:13:31.459712 useless line
+16:13:31.559712 magenta 514
+16:13:31.659712 red 206
+16:13:31.759712 useless line
+16:13:31.859712 useless line
+16:13:31.959712 useless line
+16:13:32.059712 blue
+16:13:32.159712 red  red
+16:13:32.259712 useless line
+16:13:32.359712 useless line
+16:13:32.459712 magenta  magenta
+16:13:32.559712 useless line
+16:13:32.659712 useless line
+16:13:32.759712 useless line
+16:13:32.859712 blue 778
+16:13:32.959712 green 588
+16:13:33.059712 blue  blue
+16:13:33.159712 green 217
+16:13:33.259712 useless line
+16:13:33.359712 useless line
+16:13:33.459712 useless line
+16:13:33.559712 useless line
+16:13:33.659712 useless line
+16:13:33.759712 useless line
+16:13:33.859712 useless line
+16:13:33.959712 useless line
+16:13:34.059712 blue 778
+16:13:34.159712 red 739
+16:13:34.259712 useless line
+16:13:34.359712 useless line
+16:13:34.459712 useless line
+16:13:34.559712 useless line
+16:13:34.659712 red 976
+16:13:34.759712 useless line
+16:13:34.859712 useless line
+16:13:34.959712 useless line
+16:13:35.059712 magenta  magenta
+16:13:35.159712 useless line
+16:13:35.259712 useless line
+16:13:35.359712 useless line
+16:13:35.459712 useless line
+16:13:35.559712 useless line
+16:13:35.659712 useless line
+16:13:35.759712 useless line
+16:13:35.859712 red  red
+16:13:35.959712 magenta 61
+16:13:36.059712 useless line
+16:13:36.159712 useless line
+16:13:36.259712 green
+16:13:36.359712 useless line
+16:13:36.459712 useless line
+16:13:36.559712 blue 736
+16:13:36.659712 useless line
+16:13:36.759712 useless line
+16:13:36.859712 useless line
+16:13:36.959712 green
+16:13:37.059712 useless line
+16:13:37.159712 useless line
+16:13:37.259712 useless line
+16:13:37.359712 useless line
+16:13:37.459712 useless line
+16:13:37.559712 useless line
+16:13:37.659712 magenta
+16:13:37.759712 green
+16:13:37.859712 red
+16:13:37.959712 red 376
+16:13:38.059712 red  red
+16:13:38.159712 useless line
+16:13:38.259712 magenta
+16:13:38.359712 useless line
+16:13:38.459712 useless line
+16:13:38.559712 useless line
+16:13:38.659712 useless line
+16:13:38.759712 useless line
+16:13:38.859712 red
+16:13:38.959712 useless line
+16:13:39.059712 useless line
+16:13:39.159712 blue
+16:13:39.259712 blue  blue
+16:13:39.359712 useless line
+16:13:39.459712 useless line
+16:13:39.559712 green 756
+16:13:39.659712 useless line
+16:13:39.759712 useless line
+16:13:39.859712 useless line
+16:13:39.959712 green
+16:13:40.059712 magenta
+16:13:40.159712 blue 527
+16:13:40.259712 useless line
+16:13:40.359712 blue  blue
+16:13:40.459712 useless line
+16:13:40.559712 useless line
+16:13:40.659712 useless line
+16:13:40.759712 red 918
+16:13:40.859712 green 210
+16:13:40.959712 useless line
+16:13:41.059712 magenta
+16:13:41.159712 useless line
+16:13:41.259712 blue  blue
+16:13:41.359712 useless line
+16:13:41.459712 useless line
+16:13:41.559712 useless line
+16:13:41.659712 useless line
+16:13:41.759712 useless line
+16:13:41.859712 useless line
+16:13:41.959712 useless line
+16:13:42.059712 useless line
+16:13:42.159712 green
+16:13:42.259712 useless line
+16:13:42.359712 useless line
+16:13:42.459712 useless line
+16:13:42.559712 useless line
+16:13:42.659712 blue 425
+16:13:42.759712 blue
+16:13:42.859712 useless line
+16:13:42.959712 magenta  magenta
+16:13:43.059712 green  green
+16:13:43.159712 magenta
+16:13:43.259712 blue
+16:13:43.359712 useless line
+16:13:43.459712 magenta 815
+16:13:43.559712 useless line
+16:13:43.659712 useless line
+16:13:43.759712 magenta 438
+16:13:43.859712 useless line
+16:13:43.959712 useless line
+16:13:44.059712 useless line
+16:13:44.159712 useless line
+16:13:44.259712 useless line
+16:13:44.359712 useless line
+16:13:44.459712 useless line
+16:13:44.559712 useless line
+16:13:44.659712 green  green
+16:13:44.759712 useless line
+16:13:44.859712 magenta 434
+16:13:44.959712 useless line
+16:13:45.059712 green
+16:13:45.159712 green
+16:13:45.259712 magenta  magenta
+16:13:45.359712 magenta 360
+16:13:45.459712 useless line
+16:13:45.559712 useless line
+16:13:45.659712 useless line
+16:13:45.759712 useless line
+16:13:45.859712 useless line
+16:13:45.959712 useless line
+16:13:46.059712 green 80
+16:13:46.159712 useless line
+16:13:46.259712 useless line
+16:13:46.359712 magenta  magenta
+16:13:46.459712 useless line
+16:13:46.559712 useless line
+16:13:46.659712 useless line
+16:13:46.759712 red  red
+16:13:46.859712 green 694
+16:13:46.959712 useless line
+16:13:47.059712 useless line
+16:13:47.159712 green  green
+16:13:47.259712 useless line
+16:13:47.359712 useless line
+16:13:47.459712 red 189
+16:13:47.559712 red
+16:13:47.659712 useless line
+16:13:47.759712 red 793
+16:13:47.859712 useless line
+16:13:47.959712 useless line
+16:13:48.059712 useless line
+16:13:48.159712 useless line
+16:13:48.259712 red 400
+16:13:48.359712 red 403
+16:13:48.459712 useless line
+16:13:48.559712 useless line
+16:13:48.659712 useless line
+16:13:48.759712 useless line
+16:13:48.859712 useless line
+16:13:48.959712 green  green
+16:13:49.059712 useless line
+16:13:49.159712 useless line
+16:13:49.259712 useless line
+16:13:49.359712 useless line

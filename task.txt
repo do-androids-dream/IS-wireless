@@ -1,0 +1,47 @@
+The task is to parse a log file and print some summary about lines that interest us in it.
+
+Along with this description you have two example files (exampleinput1.txt and exampleinput2.txt) and a Python script (gen.py) to generate more example data with.
+
+Each line of the log file starts with a timestamp (hour, minute, second, and fractions of a second). After the timestamp there is one or more words.
+
+If the first word is not one of: red, green, blue or magenta - ignore that line completely.
+
+If the first word is one of red, green, blue or magenta - take the second word as an integer.
+If the second word in the line is missing or not an integer - count that as an error.
+Otherwise - sum it according to the first word. You must sum all the red, green and blue together, according to color, and all the magenta lines sums both into red and blue (so 'magenta 2' adds 2 to both red and blue, see example below).
+
+You should also find the second (based on the timestamp at the start of line) that has the highest sum of numbers among all. In this step only look at the value, don't consider magenta special (like in the last step).
+
+
+
+For example for input file exampleinput1.txt:
+10:20:30.000000 red 2
+10:20:31.000000 magenta 2
+10:20:31.100000 green
+10:20:31.200000 green   blue
+10:20:31.500000 blue 2
+10:20:31.700000 useless line
+10:20:32.000000 magenta 2
+10:20:33.000000 magenta 3
+
+
+The answer is:
+Sum for red:   9
+Sum for green: 0
+Sum for blue:  9
+Errors: 2
+Highest value second is 10:20:31 with sum of 4
+
+
+Red sums up to 9 due to one 'red 2', one 'magenta 2' at the start, and one more 'magenta 2' and 'magenta 3' at the end.
+All lines that have 'green' in them are errors, since they have no integer in second place, so there are 2 errors counted for that.
+Blue sums up to 9 similarly to red (one 'blue 2' and megenta lines for 2, 2 and 3 = 9).
+And the second with the highest sum of values is 10:20:31 since it has 'magenta 2' and 'blue 2'.
+
+
+
+Exact format of the output is not important, just the answer (values of red, blue, green, count of errors, and what is the highest valued second in the log).
+
+If there is more than one second that fits the problem description (highest sum of values) - you can print any of them (or all of them). You can't use external libraries, but can use anything built in in Python (for example collections module, int function, str.split, etc.).
+
+Your program should be clean, readable, well formatted (by hand or an automated tool). It should also print helpful error message when ran without a file, and operate properly on big files (use gen.py to generate them), even a GB one, without using a GB of RAM itself.
